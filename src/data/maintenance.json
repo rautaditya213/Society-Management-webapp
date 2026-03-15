@@ -1,0 +1,26 @@
+[
+  {
+    "id": "m1",
+    "flatNumber": "A-101",
+    "amount": 2500,
+    "month": "January 2024",
+    "status": "Paid",
+    "dueDate": "2024-01-10"
+  },
+  {
+    "id": "m2",
+    "flatNumber": "A-101",
+    "amount": 2500,
+    "month": "February 2024",
+    "status": "Pending",
+    "dueDate": "2024-02-10"
+  },
+  {
+    "id": "m3",
+    "flatNumber": "B-205",
+    "amount": 3500,
+    "month": "February 2024",
+    "status": "Pending",
+    "dueDate": "2024-02-10"
+  }
+]

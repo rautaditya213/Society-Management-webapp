@@ -1,0 +1,25 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "password123",
+    "role": "admin",
+    "name": "System Admin"
+  },
+  {
+    "id": "2",
+    "username": "A-101",
+    "password": "password123",
+    "role": "member",
+    "name": "Rahul Sharma",
+    "flatNumber": "A-101"
+  },
+  {
+    "id": "3",
+    "username": "B-205",
+    "password": "password123",
+    "role": "member",
+    "name": "Priya Patel",
+    "flatNumber": "B-205"
+  }
+]

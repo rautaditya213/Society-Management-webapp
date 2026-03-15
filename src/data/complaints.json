@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c1",
+    "flatNumber": "A-101",
+    "title": "Kitchen Tap Leaking",
+    "description": "The kitchen tap is continuously leaking since yesterday evening.",
+    "status": "Open",
+    "date": "2024-02-05"
+  },
+  {
+    "id": "c2",
+    "flatNumber": "B-205",
+    "title": "Corridor Light Broken",
+    "description": "The tube light outside flat B-205 is fused.",
+    "status": "Resolved",
+    "date": "2024-01-20"
+  }
+]

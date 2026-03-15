@@ -1,0 +1,14 @@
+[
+  {
+    "id": "n1",
+    "title": "Water Supply Interruption",
+    "message": "Water supply will be interrupted on 15th Feb from 10 AM to 2 PM due to tank cleaning.",
+    "date": "2024-02-13"
+  },
+  {
+    "id": "n2",
+    "title": "Annual Society Meeting",
+    "message": "The annual general body meeting is scheduled for 25th Feb at 10 AM in the clubhouse.",
+    "date": "2024-02-10"
+  }
+]

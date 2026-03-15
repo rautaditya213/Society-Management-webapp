@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f1",
+    "number": "A-101",
+    "owner": "Rahul Sharma",
+    "status": "Occupied",
+    "type": "2BHK"
+  },
+  {
+    "id": "f2",
+    "number": "A-102",
+    "owner": "Vacant",
+    "status": "Available",
+    "type": "2BHK"
+  },
+  {
+    "id": "f3",
+    "number": "B-205",
+    "owner": "Priya Patel",
+    "status": "Occupied",
+    "type": "3BHK"
+  },
+  {
+    "id": "f4",
+    "number": "B-206",
+    "owner": "Amit Kumar",
+    "status": "Occupied",
+    "type": "3BHK"
+  }
+]
