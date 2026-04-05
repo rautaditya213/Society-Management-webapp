@@ -2,7 +2,7 @@
 
 A powerful and intuitive React-based Single Page Application (SPA) designed to streamline the management of housing societies. This frontend application provides tailored experiences for both Administrative staff and Society Members using Role-Based Access Control.
 
-## 🚀 Features
+# 🚀 Features
 
 ### General
 - **Role-Based Authentication**: Secure, protected routing that dynamically renders different dashboards depending on whether the logged-in user is an Admin or a Member.
